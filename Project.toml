@@ -4,6 +4,8 @@ authors = ["Moritz Frisch"]
 version = "1.0.0-DEV"
 
 [deps]
+OhMyREPL = "5fb14364-9ced-5910-84b2-373655c76a03"
+REPL = "3fa0cd96-eef1-5676-8a61-b3b8758bbffb"
 ReplMaker = "b873ce64-0db9-51f5-a568-4457d8e49576"
 Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
 
