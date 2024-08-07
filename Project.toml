@@ -3,6 +3,10 @@ uuid = "8c2f87a6-64c9-42bd-bfee-da659937d8bd"
 authors = ["Moritz Frisch"]
 version = "1.0.0-DEV"
 
+[deps]
+ReplMaker = "b873ce64-0db9-51f5-a568-4457d8e49576"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+
 [compat]
 julia = "1.6.7"
 

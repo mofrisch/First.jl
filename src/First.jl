@@ -1,5 +1,8 @@
 module First
-export greet_your_package_name
+
+export forth
+export Stack
+export init
 include("functions.jl")
 
 end # module
