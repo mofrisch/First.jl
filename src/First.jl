@@ -3,7 +3,9 @@ module First
 export forth
 export Stack
 export Words
+export Code
 
-include("functions.jl")
+include("primitives.jl")
+include("forth.jl")
 
 end # module
