@@ -7,5 +7,6 @@ export Code
 
 include("primitives.jl")
 include("forth.jl")
+include("user.jl")
 
 end # module
